@@ -1,0 +1,2 @@
+ik weet niet goed hoe ik verder moet aangezien ik niet zeker ben of we eerst docker moeten installeren op de VM of niet, en ik heb mijn php code niet op deze php dus moet ik deze opnieuw maken.
+ik denk dat hier mijn website komt dan?
