@@ -6,5 +6,4 @@ COPY ./php-code /var/www/html
 RUN docker-php-ext-install mysqli && mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"
 #dit zou alles moeten zijn
 
-# de ini file kopieren naar de juiste locatie
-COPY .php/ini "$PHP_INI_DIR/php.ini"
+
